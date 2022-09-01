@@ -1,0 +1,21 @@
+{
+    "app": {
+        "title": "!!COMPANY_NAME!!",
+        "page_one": {
+            "welcome": "Welcome to !!COMPANY_NAME!!, how may we help?",
+            "message_with_template": "{{name}} could not be saved.",
+            "saveThenEdit": "Save and edit",
+            "page_one_a": {
+                "advanced": "Advanced..."
+            }
+        },
+        "page_two": {
+            "generic_error": "An error has occurred. Please try again later.",
+            "singular": "User",
+            "plural": "Users",
+            "CHAT": "Chat / SMS",
+            "message": "Are you sure you want to change the authentication type? Switching from password to single sign on will reset the password.",
+            "with_mark_up": "<p>This is some normal paragraph text, and this <span class='emphasized'>word</span> is italicized for decoration.</p>"
+        }
+    }
+}
