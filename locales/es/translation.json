@@ -1,1 +1,21 @@
-{}
+{
+   "app" : {
+      "title" : "NOMBRE_DE_LA_EMPRESA",
+      "page_one" : {
+         "welcome" : "Bienvenido a !!COMPANY_NAME!!. ¿En qué podemos ayudarle?",
+         "message_with_template" : "{{name}} no se ha podido guardar.",
+         "saveThenEdit" : "Guardar y editar",
+         "page_one_a" : {
+            "advanced" : "Avanzado..."
+         }
+      },
+      "page_two" : {
+         "generic_error" : "Se ha producido un error. Por favor, inténtelo más tarde.",
+         "singular" : "Usuario",
+         "plural" : "Usuarios",
+         "CHAT" : "Chat \/ SMS",
+         "message" : "¿Estás seguro de que quieres cambiar el tipo de autenticación? El cambio de contraseña a inicio de sesión único restablecerá la contraseña.",
+         "with_mark_up" : "<p>Este es un texto de párrafo normal, y esta <span class=\"emphasized\">palabra<\/span> está en cursiva para decorar.<\/p>"
+      }
+   }
+}

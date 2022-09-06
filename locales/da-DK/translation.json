@@ -1,1 +1,21 @@
-{}
+{
+   "app" : {
+      "title" : "!!COMPANY_NAME!!",
+      "page_one" : {
+         "welcome" : "Velkommen til !!COMPANY_NAME!!, hvordan kan vi hjælpe?",
+         "message_with_template" : "{{name}} kunne ikke gemmes.",
+         "saveThenEdit" : "Gem og rediger",
+         "page_one_a" : {
+            "advanced" : "Fremskreden..."
+         }
+      },
+      "page_two" : {
+         "generic_error" : "Der opstod en fejl. Prøv igen senere.",
+         "singular" : "Bruger",
+         "plural" : "Brugere",
+         "CHAT" : "Chat \/ SMS",
+         "message" : "Er du sikker på, at du vil ændre godkendelsestypen? Skift fra adgangskode til enkeltlogon vil nulstille adgangskoden.",
+         "with_mark_up" : "<p>Dette er en normal afsnitstekst, og dette <span class=\"emphasized\">ord<\/span> er kursiveret til dekoration.<\/p>"
+      }
+   }
+}

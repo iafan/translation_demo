@@ -1,1 +1,21 @@
-{}
+{
+   "app" : {
+      "title" : "!!COMPANY_NAME!!",
+      "page_one" : {
+         "welcome" : "!!COMPANY_NAME!!へようこそ。",
+         "message_with_template" : "{{name}}を保存できませんでした。",
+         "saveThenEdit" : "保存と編集",
+         "page_one_a" : {
+            "advanced" : "高度な..."
+         }
+      },
+      "page_two" : {
+         "generic_error" : "エラーが発生しました。後でもう一度お試しください。",
+         "singular" : "ユーザー",
+         "plural" : "ユーザー",
+         "CHAT" : "チャット／SMS",
+         "message" : "本当に認証タイプを変更するのですか？パスワードからシングルサインオンに切り替えると、パスワードがリセットされます。",
+         "with_mark_up" : "<p>これは通常の段落テキストで、この<span class=\"emphasized\">単語<\/span>は装飾のためにイタリック体になっています。<\/p>"
+      }
+   }
+}
