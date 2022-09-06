@@ -1,6 +1,6 @@
 {
    "app" : {
-      "title" : "NOMBRE_DE_LA_EMPRESA",
+      "title" : "!!COMPANY_NAME!!",
       "page_one" : {
          "welcome" : "Bienvenido a !!COMPANY_NAME!!. ¿En qué podemos ayudarle?",
          "message_with_template" : "{{name}} no se ha podido guardar.",
